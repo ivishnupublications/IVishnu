@@ -1,4 +1,4 @@
-# Tech Chronicles & AI Insights | [ivishnu.com](https://ivishnu.com)
+# IVIshnu Publications | [ivishnu.com](https://ivishnu.com)
 
 [![Website](https://img.shields.io/badge/Website-ivishnu.com-blue?style=flat-square&logo=google-chrome)](https://ivishnu.com)
 [![Publications](https://img.shields.io/badge/Read-Publications-orange?style=flat-square)](https://ivishnu.com/publications/)
